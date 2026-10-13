@@ -1,0 +1,8 @@
+{
+  "name": "Soul Dance Studio",
+  "description": "Clean, modern website for Soul Dance Studio in Bidhannagar, Durgapur. Explore programs, book free trials, access student dashboard, and pay fees securely via Razorpay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
